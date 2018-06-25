@@ -1,2 +1,6 @@
 # 2018NSYSU-Introduction-to-Options-and-Futures
-## Place to store homework
+
+**Homework list:**
+1. *Midterm report - Delta Hedging*
+
+2. *Final report - Dual Currency Investment*
